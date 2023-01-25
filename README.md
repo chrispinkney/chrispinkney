@@ -3,10 +3,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrispinkney" alt="chrispinkney" /></a> </p>
 
-- 🌐 Personal website **https://chrispinkney.com**
-- 📫 How to reach me **hey@chrispinkney.com**
-
 <h3 align="left">Connect with me:</h3>
+<p>🌐 Personal website <a href="https://chrispinkney.com">https://chrispinkney.com</a></p>
+<p>📫 How to reach me <a href="mailto:hey@chrispinkney.com">hey@chrispinkney.com</a></p>
 <p align="left">
 <a href="https://linkedin.com/in/chrispinkney" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chrispinkney" height="30" width="40" /></a>
 </p>
