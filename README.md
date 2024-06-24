@@ -7,15 +7,10 @@
 
 - 📫 How to reach me **hey@chrispinkney.com**.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrispinkney" alt="chrispinkney" /></a> </p>
+<a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chrispinkney" alt="chrispinkney" /></a>
 
-<a href="https://github.com/chrispinkney">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrispinkney" />
-</a>
-<a href="https://github.com/chrispinkney">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrispinkney&layout=compact&langs_count=8&hide=javascript,html,css&card_width=320" /> 
-</a></br></br>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=chrispinkney" />
 
-<a href="https://github.com/chrispinkney">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrispinkney&" alt="chrispinkney" />
-</a>
+<img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=chrispinkney&layout=compact&langs_count=8&hide=javascript,html,css&card_width=320" /> 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrispinkney&" alt="chrispinkney" />
